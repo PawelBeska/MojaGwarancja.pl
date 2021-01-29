@@ -7,12 +7,10 @@
                 <small class="text-light-gray">Więcej informacji w regulaminie gwarancji.</small>
                 <div class="d-flex flex-wrap mt-4 mt-lg-5">
                     <a
-                        href="https://mojaGwarancja.com/docs/pixel-bootstrap/getting-started/overview/"
-                        target="_blank"
+                        href="#"
                         class="btn btn-dashed btn-outline-soft d-none d-lg-inline mr-md-3 animate-up-2"> Strefa klienta</a>
                     <a
-                        href="https://mojaGwarancja.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit"
-                        target="_blank"
+                        href="#"
                         class="btn btn-tertiary animate-up-2"> Kontakt</a>
                 </div>
             </div>
