@@ -12,7 +12,6 @@ function init() {
         }
     });
     $(document).on('click', 'a', function (e) {
-        console.log('click');
         e.stopImmediatePropagation();
         if ($(this).data('redirect-to')) window.location.href = $(this).data('redirect-to');
         if ($(this).data('redirect')) {
@@ -25,6 +24,7 @@ function init() {
 
         }
     });
+
     $(document).on('submit', 'form#action', function (e) {
         e.preventDefault();
         e.stopImmediatePropagation();
